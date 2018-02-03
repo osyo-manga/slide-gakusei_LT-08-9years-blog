@@ -69,7 +69,7 @@
   * ライブラリやプラグインとか
 * イベント関連     <!-- .element: class="fragment" -->
   * Advent Calendar とか
-  * 一人 Advent Calendar を2つ並行してやったら記事を書いても書いても毎日Qiita から『早く明日のアドベントカレンダーかけ』と言われつらかった
+  * 一人 Advent Calendar を2つ並行してやったら、Qiita から毎日 『明日の記事を書け』『明後日はお前の番やぞ』と催促されてつらかった
 
 ---
 
