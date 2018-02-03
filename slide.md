@@ -69,7 +69,7 @@
   * ライブラリやプラグインとか
 * イベント関連     <!-- .element: class="fragment" -->
   * Advent Calendar とか
-  * 一人 Advent Calendar を2つ並行してやったら、Qiita から毎日 『明日の記事を書け』『明後日はお前の番やぞ』と催促されてつらかった
+  * 一人 Advent Calendar を2つ並行してやったら、Qiita から毎日 『明日の記事を書け』『明後日はお前の番やぞ』と催促されてつらかった  <!-- .element: class="fragment" -->
 
 ---
 
@@ -187,6 +187,7 @@
 * 記事を書くということはアウトプットする以外の目的でもある           <!-- .element: class="fragment" -->
 * 継続することは大事だが、それを目的にしてしまうと本来の目的を見失ってしまう          <!-- .element: class="fragment" -->
 * 公開する前にちゃんと読み直そう        <!-- .element: class="fragment" -->
+* 家に帰ってブログを書くまでが学生LTです！        <!-- .element: class="fragment" -->
 
 
 ---
